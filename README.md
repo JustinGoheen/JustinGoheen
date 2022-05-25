@@ -74,5 +74,3 @@ The following is the collection of books used or referenced in the repos; each w
 <!-- [![](https://img.shields.io/badge/Docs-Material_MkDocs-informational?style=flat&logo=&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Docs-Keras_AutoDocs-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/Code_Style-Black-informational?style=flat&logo=pyblack&logoColor=white&color=2bbc8a)](#) -->
-
-<!-- [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/justingoheen) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://theaiengineer.medium.com) -->
