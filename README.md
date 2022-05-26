@@ -18,6 +18,8 @@ New to AI/ML learners, I suggest you proceed through the repos in the following 
 3. [Deep Learning](https://github.com/JustinGoheen/Deep-Learning)
 4. [Reinforcement Learning](https://github.com/JustinGoheen/Reinforcement-Learning)
 
+And use [lightning-pod](https://github.com/JustinGoheen/lightning-pod) for a self-guided capstone project.
+
 ---
 ## Books
 
