@@ -23,7 +23,7 @@ And use [lightning-pod](https://github.com/JustinGoheen/lightning-pod) for a sel
 ---
 ## Books
 
-The following is the collection of books used or referenced in the repos; each was a required or supplemental text in my graduate program in AI/ML:
+The following is the collection of books used or referenced in the repos; each was a required or supplemental text in my graduate program:
 
 | Title                         |
 |-------------------------------|
@@ -35,12 +35,7 @@ The following is the collection of books used or referenced in the repos; each w
 | [Reinforcement Learning](https://www.google.com/books/edition/Reinforcement_Learning_second_edition/uWV0DwAAQBAJ?hl=en&gbpv=0)|
 | [Bandit Algorithms](https://www.google.com/books/edition/Bandit_Algorithms/bbjpDwAAQBAJ?hl=en&gbpv=0)|
 
-<!-- [AI and Machine Learning for Coders](https://www.google.com/books/edition/AI_and_Machine_Learning_for_Coders/462OzQEACAAJ?hl=en) -->
-<!-- [Deep Learning with Python (Chollet)](https://www.google.com/books/edition/Deep_Learning_with_Python_Second_Edition/XHpKEAAAQBAJ?hl=en&gbpv=0) -->
-<!-- [Dive into Deep Learning](https://d2l.ai) -->
 ---
-
-
 <!-- [![](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)](#) -->
 <!-- [![](https://img.shields.io/badge/PyCharm-IDE-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)](#) -->
 <!-- ![](https://img.shields.io/badge/Code-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=2bbc8a) -->
