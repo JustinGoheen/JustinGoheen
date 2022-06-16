@@ -7,7 +7,9 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 [![](https://img.shields.io/badge/Gitpod-DevEnv-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Ploty_Dash-Apps-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
 
-🎓📚 M.S. AI and ML, Drexel University
+<!-- 🎓📚 M.S. AI and ML, Drexel University <br>
+<img src=https://user-images.githubusercontent.com/26209687/174139542-ef7660d9-0a87-4421-853c-cb148d13bad3.png width="20"> -->
+
 
 <!--My personal GitHub is AI/ML learner focused. Meaning —— the collection of repos is designed as a sparse outline meant to be forked and completed by the user.
 
