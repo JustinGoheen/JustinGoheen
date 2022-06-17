@@ -2,7 +2,7 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 
 [![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/PyTorch-Code-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
-[![](https://img.shields.io/badge/Lightning-Code-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)](#)
+[![](https://img.shields.io/badge/Lightning.ai-Code-informational?style=flat&logo=pytorchlightning&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Grid.ai-Compute-informational?style=flat&logo=grid.ai&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Gitpod-DevEnv-informational?style=flat&logo=gitpod&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Ploty_Dash-Apps-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
