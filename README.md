@@ -6,7 +6,7 @@
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
-## Idea Board
+## Project Board
 
 You can check out my in-work projects on my [board](https://github.com/users/JustinGoheen/projects/14/views/1?sortedBy%5Bdirection%5D=desc&sortedBy%5BcolumnId%5D=Status).
 
