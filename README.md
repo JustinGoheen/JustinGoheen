@@ -8,4 +8,4 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 
 ## Project Board
 
-You can check out my Python and [Lightning AI](https://lightning.ai) projects on my [board](https://github.com/users/JustinGoheen/projects/16/views/1).
+You can check out my Python and [Lightning AI](https://lightning.ai) projects and contributions on my [board](https://github.com/users/JustinGoheen/projects/16/views/1).
