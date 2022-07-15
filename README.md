@@ -6,10 +6,10 @@
 
 Hi, my name is Justin —— and I'm focused on developing tools, systems, and processes to enable the application of Artificial Intelligence in real-world contexts[¹](https://www.sei.cmu.edu/our-work/artificial-intelligence-engineering/).
 
-## Project Board
-
-You can check out my Python and [Lightning AI](https://lightning.ai) projects and contributions on my [board](https://github.com/users/JustinGoheen/projects/16/views/1).
-
 ## My notes
 
 I've started to collect my notes in a [wiki](https://justingoheen.github.io/lightning-engineer/). The topics are broad; my core skillset when I started writing the was theoretical AI/ML. This wiki is a way to consolidate and share my notes and progress as I learn more about the world of open source contributing, and software + research engineering.
+
+## Project Board
+
+You can check out my Python and [Lightning AI](https://lightning.ai) projects and contributions on my [board](https://github.com/users/JustinGoheen/projects/16/views/1).
