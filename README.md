@@ -12,4 +12,4 @@ You can check out my Python and [Lightning AI](https://lightning.ai) projects an
 
 ## My notes
 
-I've started to collect my notes in a [wiki](https://justingoheen.github.io/lightning-engineer/). The topics are broad; my core skillset when I started writing the wiki was theoretical AI/ML and this was a way to consolidate and share my notes and progress as I learned more about the world of open source contributing, software + research engineering, while continuing to remain grounded in pragmatic AI principles.
+I've started to collect my notes in a [wiki](https://justingoheen.github.io/lightning-engineer/). The topics are broad; my core skillset when I started writing the wiki was theoretical AI/ML. This wiki is a way to consolidate and share my notes and progress as I learn more about the world of open source contributing, software + research engineering, while continuing to remain grounded in AI concepts.
