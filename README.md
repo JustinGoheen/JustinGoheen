@@ -8,7 +8,7 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 
 ## My notes
 
-I've started to collect my notes in a [wiki](https://justingoheen.github.io/lightning-engineer/). The topics are broad; my core skillset when I started writing the was theoretical AI/ML. This wiki is a way to consolidate and share my notes and progress as I learn more about the world of open source contributing, and software + research engineering.
+I've started to collect my notes in a [wiki](https://justingoheen.github.io/lightning-engineer/). This wiki is a way to consolidate and share my notes as I learn more about the world of open source contributing, and software + research engineering.
 
 ## Project Board
 
