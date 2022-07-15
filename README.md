@@ -9,3 +9,7 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 ## Project Board
 
 You can check out my Python and [Lightning AI](https://lightning.ai) projects and contributions on my [board](https://github.com/users/JustinGoheen/projects/16/views/1).
+
+## My notes
+
+I've started to collect my notes in a [wiki](https://justingoheen.github.io/lightning-engineer/). The topics are broad; my core skillset when I started writing the wiki was theoretical AI/ML and this was a way to consolidate and share my notes and progress as I learned more about the world of open source contributing, software + research engineering, while continuing to remain grounded in pragmatic AI principles.
