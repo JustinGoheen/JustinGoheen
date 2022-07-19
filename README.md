@@ -12,4 +12,4 @@ I've started to collect my notes in a [wiki](https://justingoheen.github.io/ligh
 
 ## Project Board
 
-You can check out my Python and [Lightning AI](https://lightning.ai) projects and contributions on my [board](https://github.com/users/JustinGoheen/projects/16/views/1).
+You can check out my Python and [Lightning AI](https://lightning.ai) projects and contributions on my [board](https://github.com/users/JustinGoheen/projects/16/views/3).
