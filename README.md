@@ -5,7 +5,7 @@ Hi, my name is Justin —— and I'm focused on developing tools, systems, and p
 
 ## My notes
 
-This [wiki](https://justingoheen.github.io/lightning-engineer/) is a way to consolidate and share notes as I learn more about the world of open source contributing, and software + research engineering.
+This [wiki](https://justingoheen.github.io/lightning-engineer/) is a way to consolidate and share notes on software + research engineering.
 
 ## Project Board
 
